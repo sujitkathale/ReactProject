@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "pname": "Bag",
+      "price": "500",
+      "quantity": "12",
+      "image": "p1.jpg"
+    },
+    {
+      "id": "2",
+      "pname": "Shoes",
+      "price": "650",
+      "quantity": "10",
+      "image": "p4.jpg"
+    },
+    {
+      "id": "3",
+      "pname": "Raincoat",
+      "price": "350",
+      "quantity": "11",
+      "image": "p10.jpg"
+    },
+    {
+      "id": "4",
+      "pname": "Sunglasses",
+      "price": "250",
+      "quantity": "20",
+      "image": "p9.png"
+    },
+    {
+      "id": "5",
+      "pname": "Gloves",
+      "price": "105",
+      "quantity": "123",
+      "image": "p3.jpeg"
+    },
+    {
+      "id": "6",
+      "pname": "Treking Pant",
+      "price": "550",
+      "quantity": "13",
+      "image": "p6.jpg"
+    },
+    {
+      "id": "7",
+      "pname": "cap",
+      "price": "150",
+      "quantity": "100",
+      "image": "p7.jpg"
+    },
+    {
+      "id": "8",
+      "pname": "Leatte Jacket",
+      "price": "550",
+      "quantity": "13",
+      "image": "p5.jpg"
+    },
+    {
+      "id": "9",
+      "pname": "Nightvision Glasses",
+      "price": "300",
+      "quantity": "13",
+      "image": "p11.png"
+    },
+    {
+      "id": "10",
+      "pname": "Biker Suit",
+      "price": "500",
+      "quantity": "09",
+      "image": "p13.jpg"
+    },
+    {
+      "id": "11",
+      "pname": "Jacket",
+      "price": "550",
+      "quantity": "11",
+      "image": "p5.jpg"
+    },
+    {
+      "id": "12",
+      "pname": "Twitter",
+      "price": "55",
+      "quantity": "10",
+      "image": "twitter.png"
+    },
+    {
+      "id": "13",
+      "pname": "Nike Shoes",
+      "price": "650",
+      "quantity": "10",
+      "image": "p4.jpg"
+    },
+    {
+      "id": "14",
+      "pname": "Car",
+      "price": "650",
+      "quantity": "10",
+      "image": "car.jpg"
+    }
+  ]
+}

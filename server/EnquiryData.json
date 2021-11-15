@@ -1,0 +1,43 @@
+{
+  "enquire": [
+    {
+      "id": "1",
+      "name": "Sujit",
+      "email": "sujit@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Sumit",
+      "email": "sumit@gmail.com"
+    },
+    {
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "mobile": "1234567890",
+      "address": "pune",
+      "course": "JS",
+      "id": 4
+    },
+    {
+      "name": "Abc",
+      "email": "abc@gmail.com",
+      "mobile": "1234546789",
+      "address": "Nashik",
+      "course": "ML",
+      "id": 5
+    },
+    {
+      "name": "Dbc",
+      "email": "Dbc@gmail.com",
+      "mobile": "1234546780",
+      "address": "Nashik",
+      "course": "ML/ai",
+      "id": 6
+    }
+  ]
+}

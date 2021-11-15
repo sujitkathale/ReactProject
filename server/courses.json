@@ -1,0 +1,74 @@
+{
+    "courses": [
+      {
+        "id": "1",
+        "cname": "Web Development",
+        "fees": "5000",
+        "seats": "20",
+        "image": "web.jpg"
+      },
+      {
+        "id": "2",
+        "cname": " AI / ML",
+        "fees": "6000",
+        "seats": "10",
+        "image": "ai.jpg"
+      },
+      {
+        "id": "3",
+        "cname": "C / C++",
+        "fees": "3000",
+        "seats": "20",
+        "image": "c.jpg"
+      },
+      {
+        "id": "4",
+        "cname": "Java Development",
+        "fees": "4000",
+        "seats": "10",
+        "image": "java.jpg"
+      },
+      {
+        "id": "5",
+        "cname": "React JS",
+        "fees": "6000",
+        "seats": "30",
+        "image": "react.jpg"
+      },
+      {
+        "id": "6",
+        "cname": "Angular Framework",
+        "fees": "6000",
+        "seats": "30",
+        "image": "ng.png"
+      },
+      {
+        "id": "7",
+        "cname": "Python Bootcamp",
+        "fees": "5000",
+        "seats": "15",
+        "image": "py.jpg"
+      },
+      {
+        "id": "8",
+        "cname": "Javascript Foundation",
+        "fees": "5000",
+        "seats": "10",
+        "image": "js.png"
+      },
+      {
+        "id": "9",
+        "cname": "Java/ Spring",
+        "fees": "4000",
+        "seats": "5",
+        "image": "sp.png"
+      },
+      {
+        "id": "10",
+        "cname": "Power BI",
+        "fees": "7000",
+        "seats": "30",
+        "image": "BI.png"
+      }
+    ]
+  }
